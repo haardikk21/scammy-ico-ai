@@ -1,0 +1,3 @@
+We are the first project based on Zcash that ignores the high amount of generated coins that will be directed towards private investors.
+
+Since we belong to a European group of ethical hackers with enough notoriety and because we believe that the technology behind Zcash is the future in anonymity, our obvious step is to copy it but removing its corporate vestiges.

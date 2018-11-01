@@ -1,0 +1,5 @@
+deCLOUDs is a decentralised cloud-based crypto-platform for issuing, exchanging and trading assets and custom tokens on a blockchain using smart contracts.
+
+The platform operation is based on the idea of uniting decentralised blockchain nodes into blockchain clouds, which will significantly increase the speed of interaction between all participants of the deCLOUDs system.
+
+Our priority is the deep integration of the deCLOUDs platform with main precious metals.
